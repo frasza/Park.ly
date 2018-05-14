@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A51371920AA1D5E0079B4A1 /* ParkingSpot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A51371820AA1D5E0079B4A1 /* ParkingSpot.swift */; };
 		3AA9213420A9C4EB00B7854B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA9213320A9C4EB00B7854B /* AppDelegate.swift */; };
 		3AA9213620A9C4EB00B7854B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA9213520A9C4EB00B7854B /* ViewController.swift */; };
 		3AA9213920A9C4EB00B7854B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AA9213720A9C4EB00B7854B /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A51371820AA1D5E0079B4A1 /* ParkingSpot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkingSpot.swift; sourceTree = "<group>"; };
 		3AA9213020A9C4EB00B7854B /* Park.ly.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Park.ly.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AA9213320A9C4EB00B7854B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3AA9213520A9C4EB00B7854B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 		3AA9214720A9C70800B7854B /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				3A51371820AA1D5E0079B4A1 /* ParkingSpot.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 			files = (
 				3AA9214920A9C72B00B7854B /* RoundButton.swift in Sources */,
 				3AA9213620A9C4EB00B7854B /* ViewController.swift in Sources */,
+				3A51371920AA1D5E0079B4A1 /* ParkingSpot.swift in Sources */,
 				3AA9213420A9C4EB00B7854B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
